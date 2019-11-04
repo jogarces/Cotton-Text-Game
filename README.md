@@ -1,5 +1,3 @@
-<img class="ui image" src="https://github.com/jogarces/jogarces.github.io/blob/master/images/cotton-header.png?raw=true">
-
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
